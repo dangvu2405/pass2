@@ -1,0 +1,16 @@
+C:\Users\vuwin\source\repos\pass2\pass2\bin\Debug\net8.0-windows\pass2.exe
+C:\Users\vuwin\source\repos\pass2\pass2\bin\Debug\net8.0-windows\pass2.deps.json
+C:\Users\vuwin\source\repos\pass2\pass2\bin\Debug\net8.0-windows\pass2.runtimeconfig.json
+C:\Users\vuwin\source\repos\pass2\pass2\bin\Debug\net8.0-windows\pass2.dll
+C:\Users\vuwin\source\repos\pass2\pass2\bin\Debug\net8.0-windows\pass2.pdb
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.Form1.resources
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.csproj.GenerateResource.cache
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.dll
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\refint\pass2.dll
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.pdb
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\pass2.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\pass2\pass2\obj\Debug\net8.0-windows\ref\pass2.dll
